@@ -1,5 +1,4 @@
 @import "tailwindcss";
-@plugin "@midudev/tailwind-animations";
 @plugin "tailwindcss-motion";
 @custom-variant dark (&:where(.dark, .dark *));
 
